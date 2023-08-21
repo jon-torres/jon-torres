@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🤓 PhD in Linguistics and Data Scientist passionated about problem solving and optimisation. 
+🤓 PhD in Linguistics and Data Scientist passionated about problem solving and optimisation 
 
 🌱 I’m currently developing my skills on **Natural Language Processing**<br><br>👨‍💻 All of my projects are available at https://github.com/jon-torres?tab=repositories<br><br> 📝 I write some articles on https://medium.com/@linguisticsetc<br><br>💬 Ask me about Formal models of grammar applied to natural language and cognitive science<br>
 
