@@ -4,7 +4,10 @@
 
 🌱 I’m currently improving my skills on **Natural Language Processing**<br><br>👨‍💻 All of my projects are available at https://github.com/jon-torres?tab=repositories<br><br> 📝 I write some articles on https://medium.com/@linguisticsetc<br><br>💬 Ask me about Formal models of grammar applied to natural language and cognitive science<br>
 
-## 🌐 Socials:
+🌐 You are welcome to visit my website: https://www.jontorres.codes/
+
+
+##👍 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathantorresling) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@linguisticsetc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17019731)
 
