@@ -2,7 +2,7 @@
 
 🤓 PhD in Linguistics and Data Scientist passionated about problem solving and optimisation 
 
-🌱 I’m currently improving my skills on **Natural Language Processing**<br><br>👨‍💻 All of my projects are available at https://github.com/jon-torres?tab=repositories<br><br> 📝 I write some articles on https://medium.com/@linguisticsetc<br>
+🌱 I’m currently improving my skills on **Machine Learning and Natural Language Processing**<br><br>👨‍💻 All of my projects are available at https://github.com/jon-torres?tab=repositories<br><br> 📝 I write some articles on https://medium.com/@linguisticsetc<br>
 
 🌐 You are welcome to visit my website: https://www.jontorres.codes/
 
