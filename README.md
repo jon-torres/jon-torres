@@ -6,7 +6,7 @@
 👨‍💻 All of my projects are available at https://github.com/jon-torres?tab=repositories<br><br>
 📝 I write some articles on https://medium.com/@linguisticsetc<br>
 
-🌐 You are welcome to visit my website: https://www.jonathantorres.codes/
+🌐 You are welcome to visit my website: [https://www.jonathantorres.codes/](https://jon-torres.github.io/)
 
 
 ## 👍 Socials:
